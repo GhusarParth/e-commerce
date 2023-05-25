@@ -1,0 +1,4 @@
+export const USER_LOGIN = "USER_LOGIN";
+export const USER_REGISTER = "USER_REGISTER";
+export const RESET_PASSWORD = "RESET_PASSWORD";
+export const CHANGE_PASSWORD = "CHANGE_PASSWORD";
