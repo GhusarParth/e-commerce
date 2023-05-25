@@ -1,11 +1,10 @@
 /* eslint-disable @next/next/no-page-custom-font */
-import "./globals.css";
 // import { Inter } from "next/font/google";
-
 import Layout from "@/layout/Layout";
 import MainLayout from "@/layout/MainLayout";
 import "@/assets/scss/style.scss";
 import { Toaster } from "react-hot-toast";
+import "./globals.css";
 
 // const inter = Inter({ subsets: ["latin"] });
 
